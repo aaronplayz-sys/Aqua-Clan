@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Aqua Clan
-hero_media: welcome.jpg
+hero_media: aquaclanlogo.png
 widget_id: Home
 design:
   columns: "1"
