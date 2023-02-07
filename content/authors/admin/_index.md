@@ -14,6 +14,11 @@ social:
     link: https://www.youtube.com/@DaddyUltimate
     icon_pack: fab
     icon: youtube
+  - display:
+      header: false
+    link: https://www.twitch.tv/daddyultimate
+    icon_pack: fab
+    icon: twitch
 organizations: []
 education:
   courses: []
