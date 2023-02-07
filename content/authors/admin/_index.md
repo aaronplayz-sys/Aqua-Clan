@@ -1,6 +1,6 @@
 ---
 role: Leader & founder
-avatar_filename: https://cdn.discordapp.com/avatars/400347369255862274/fce0bde163c55036dc89135fcb2e964c.png?size=4096
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Minecraft
