@@ -22,7 +22,7 @@ social:
 organizations: []
 education:
   courses: []
-superuser: true
+superuser: false
 user_groups:
   - Leader
 highlight_name: false
