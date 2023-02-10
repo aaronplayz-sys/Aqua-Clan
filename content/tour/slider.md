@@ -15,24 +15,24 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
+    - title: 👋 Thanks for checking us out!
       content: Take a look at what we're working on...
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
+        media: group-image-ac.png
+    - title: Game, Create, and Learn ☕️
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: 4opt.png
+    - title: Want in?
+      content: 'Schedule for a interview!'
       align: right
       background:
         position: center
@@ -40,8 +40,8 @@ content:
         brightness: 0.5
         media: welcome.jpg
       link:
-        icon: graduation-cap
+        icon: discord
         icon_pack: fas
         text: Join Us
-        url: ../contact/
+        url: https://discord.gg/EbDaQK4xbz
 ---
