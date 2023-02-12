@@ -4,7 +4,7 @@ title: Roblox Development
 summary: Our Roblox Development Team.
 
 image:
-  caption: 'Roblox Dev Team(group-image-ac.png)'
+  caption: 'Roblox Dev Team'
   focal_point: Right
 ---
 
