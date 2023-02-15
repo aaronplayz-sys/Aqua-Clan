@@ -1,5 +1,7 @@
 
 # [Aqua Clan: A multi gaming clan](https://aquaclan.aaronplayzgaming.com)
+[Website](https://aquaclan.aaronplayzgaming.com)
+
 [![Based on](https://img.shields.io/badge/-Based%20on%20wowchemy-red)](https://wowchemy.com/hugo-themes/)
 
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/aaronplayz-sys/Aqua-Clan">
