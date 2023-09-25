@@ -1,8 +1,8 @@
 name = "Aqua Clan"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
+licenselink = "https://github.com/aaronplayz-sys/Aqua-Clan/blob/main/LICENSE.md"
 description = "A multi gaming clan."
-homepage = "https://github.com/wowchemy/starter-hugo-research-group"
+homepage = "https://aquaclan.pages.dev/"
 tags = ["gamers",
         "gaming",
         "clan",
