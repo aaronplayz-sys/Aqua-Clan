@@ -17,3 +17,10 @@ Our minecraft Dev team consists some of the following:
  - Having a great time!
  
  In Aqua Clan, we value fun games over profit! Want to join our minecraft development team? Join the discord server and schedule a interview. [Click here](https://discord.gg/EbDaQK4xbz) to join.
+
+Feel free to take a look of our work!
+
+| Project No. |Project Name  | Page link |
+|--|--|--|
+|**1** | Aqua SMP Battle Of The Ogs Halloween Special |*Soon* |
+|**2** | *To Be Named* (Upcoming Project) | *N/A* |
