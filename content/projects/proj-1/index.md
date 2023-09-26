@@ -1,5 +1,5 @@
 ---
-title: Aqua SMP Halloween Sppecial
+title: Aqua SMP Halloween Special
 
 summary: We made a halloween theme map & produced a video out of it.
 
