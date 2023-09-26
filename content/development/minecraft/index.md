@@ -20,7 +20,7 @@ Our minecraft Dev team consists some of the following:
 
 Feel free to take a look of our work!
 
-| Project No. |Project Name  | Page link |
+| Project No. | Project Name  | Page link |
 |--|--|--|
-|**1** | Aqua SMP Battle Of The Ogs Halloween Special |*Soon* |
-|**2** | *To Be Named* (Upcoming Project) | *N/A* |
+| **1** | Aqua SMP Battle Of The Ogs Halloween Special | *Soon* |
+| **2** | *To Be Named* (Upcoming Project) | *N/A* |
