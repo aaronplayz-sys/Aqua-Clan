@@ -22,5 +22,5 @@ Feel free to take a look of our work!
 
 | Project No. | Project Name  | Page link |
 |--|--|--|
-| **1** | Aqua SMP Battle Of The Ogs Halloween Special | *Soon* |
+| **1** | Aqua SMP Battle Of The Ogs Halloween Special | [View](https://aquaclan.pages.dev/projects/proj-1/) |
 | **2** | *To Be Named* (Upcoming Project) | *N/A* |
