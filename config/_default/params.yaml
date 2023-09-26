@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}'
+    notice: '© {year}. This work is licensed under {license}'
     license:
       enable: false
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/aaronplayz-sys/Aqua-Clan'
     content_dir: content
     branch: main
   avatar:
